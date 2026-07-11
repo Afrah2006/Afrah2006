@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 
-An AI Engineering student passionate about software development and artificial intelligence.  
+An AI Engineering student passionate about software development and artificial intelligence, i finished my 2nd year at the National High School of Afrtificial Intelligence.  
 - I enjoy building projects that strengthen my understanding of AI/ML, data processing, and software engineering.  
--Passionate about continuous learning, skills expanding and growing my network in tech community
+- Working on continuous learning, skills expanding and growing my network in tech community
 
 ### 🛠️ Tech Stack
 
