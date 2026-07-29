@@ -38,7 +38,6 @@ An AI Engineering student passionate about software development and artificial i
   <img src="https://img.shields.io/badge/Linux-5b21b6?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 </p>
 
-> Add more badges anytime — just tell me the tech and I'll generate the shields.io line for it.
 
 ### 🔗 Connect With Me
 
