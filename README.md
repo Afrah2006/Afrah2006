@@ -36,6 +36,8 @@ An AI Engineering student passionate about software development and artificial i
   <img src="https://img.shields.io/badge/Figma-6d28d9?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Notion-6d28d9?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Linux-5b21b6?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Matplotlib-a78bfa?style=for-the-badge&logo=plotly&logoColor=ffffff" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-a78bfa?style=for-the-badge&logo=python&logoColor=ffffff" alt="Seaborn" />
 </p>
 
 
